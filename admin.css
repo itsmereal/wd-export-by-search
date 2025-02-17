@@ -1,0 +1,56 @@
+#wdes-admin-app {
+  padding: 20px 0;
+}
+
+#wdes-admin-app .wrap {
+  margin-top: 0;
+}
+
+#wdes-admin-app .wp-heading-inline {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+#wdes-admin-app .components-base-control {
+  margin-block: 10px;
+}
+
+.wdes-checkbox-group {
+  margin: 15px 0;
+}
+
+.wdes-checkbox-group label {
+  display: block;
+  margin: 5px 0;
+}
+
+.wdes-error-message {
+  color: #d63638;
+  padding: 10px;
+  margin: 10px 0 20px 0;
+  background: #fcf0f1;
+  border-left: 4px solid #d63638;
+}
+
+#wdes-admin-app button {
+  margin-top: 30px;
+}
+
+.wdes-checkbox-list {
+  margin-top: 8px;
+}
+
+.wdes-checkbox-label {
+  display: flex !important;
+  align-items: center;
+  margin: 8px 0 !important;
+  cursor: pointer;
+}
+
+.wdes-checkbox-label input[type="checkbox"] {
+  margin: 0 8px 0 0;
+}
+
+.wdes-checkbox-label span {
+  margin-top: 1px;
+}
